@@ -1,0 +1,7 @@
+{
+  "name": "LinguaLive: AI English Tutor",
+  "description": "A real-time conversational English tutor powered by Gemini 2.5 Native Audio. Practice speaking, get instant corrections, and improve your fluency through immersive voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
